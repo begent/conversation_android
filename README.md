@@ -1,7 +1,7 @@
 ## Otherhome Android client
 This is the source code for the Otherhome Android client.
 
-##License
+## License
 Otherhome for Android is based on Conversations by Daniel Gultsch.
 
 The official Conversations repository is available at: https://github.com/iNPUTmice/Conversations
