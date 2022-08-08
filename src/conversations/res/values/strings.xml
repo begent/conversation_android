@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pick_a_server">Pick your XMPP provider</string>
-    <string name="use_conversations.im">Use conversations.im</string>
+    <string name="use_conversations.im">Use Otherhome</string>
     <string name="create_new_account">Create new account</string>
     <string name="do_you_have_an_account">Otherhome is a secure, privacy-friendly chat app.\n\nTo get started, you can create a new Otherhome account or you need an invitation from Otherhome managers.\n\nIf you already have an [username@otherhome.au], now is a good time to open it up and tap! </string>
     <string name="server_select_text">XMPP is a provider independent instant messaging network. You can use this client with what ever XMPP server you choose.\nHowever for your convenience we made it easy to create an account on conversations.im; a provider specially suited for the use with Conversations.</string>
