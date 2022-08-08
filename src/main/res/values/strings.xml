@@ -185,9 +185,9 @@
     <string name="mgmt_account_are_you_sure">Are you sure?</string>
     <string name="mgmt_account_delete_confirm_text">Deleting your account erases your entire conversation history</string>
     <string name="attach_record_voice">Record voice</string>
-    <string name="account_settings_jabber_id">XMPP address</string>
+    <string name="account_settings_jabber_id">Otherhome address</string>
     <string name="block_jabber_id">Block XMPP address</string>
-    <string name="account_settings_example_jabber_id">username@example.com</string>
+    <string name="account_settings_example_jabber_id">username@otherhome.au</string>
     <string name="password">Password</string>
     <string name="invalid_jid">This is not a valid XMPP address</string>
     <string name="error_out_of_memory">Out of memory. Image too big</string>
@@ -845,13 +845,13 @@
     <string name="unable_to_restore_backup">Could not restore backup.</string>
     <string name="unable_to_decrypt_backup">Could not decrypt backup. Is the password correct?</string>
     <string name="backup_channel_name">Backup &amp; Restore</string>
-    <string name="enter_jabber_id">Enter XMPP address</string>
+    <string name="enter_jabber_id">Enter Otherhome address</string>
     <string name="create_group_chat">Create group chat</string>
     <string name="join_public_channel">Join public channel</string>
     <string name="create_private_group_chat">Create private group chat</string>
     <string name="create_public_channel">Create public channel</string>
     <string name="create_dialog_channel_name">Channel name</string>
-    <string name="xmpp_address">XMPP address</string>
+    <string name="xmpp_address">Otherhome address</string>
     <string name="please_enter_name">Please provide a name for the channel</string>
     <string name="please_enter_xmpp_address">Please provide an XMPP address</string>
     <string name="this_is_an_xmpp_address">This is an XMPP address. Please provide a name.</string>
