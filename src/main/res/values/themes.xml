@@ -3,7 +3,7 @@
 
     <style name="ConversationsTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/green600</item>
-        <item name="colorPrimaryDark">@color/green800</item>
+        <item name="colorPrimaryDark">@color/grey800</item><!--green800 -->
         <item name="colorAccent">@color/blue_a400</item>
         <item name="popupOverlayStyle">@style/ThemeOverlay.AppCompat.Light</item>
 
@@ -150,7 +150,7 @@
 
     <style name="ConversationsTheme.Dark" parent="Theme.AppCompat.NoActionBar">
         <item name="colorPrimary">@color/green800</item>
-        <item name="colorPrimaryDark">@color/green900</item>
+        <item name="colorPrimaryDark">@color/grey900</item><!--green900-->
         <item name="colorAccent">@color/blue_a100</item>
         <item name="popupOverlayStyle">@style/ThemeOverlay.AppCompat.Dark</item>
         <item name="android:navigationBarColor" tools:targetApi="21">@color/black</item>
@@ -354,7 +354,7 @@
 
     <style name="ConversationsTheme.FullScreen" parent="@style/Theme.AppCompat.Light">
         <item name="colorPrimary">@color/green600</item>
-        <item name="colorPrimaryDark">@color/green700</item>
+        <item name="colorPrimaryDark">@color/grey800</item><!--green700-->
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:windowFullscreen">true</item>
@@ -382,7 +382,7 @@
 
     <style name="ConversationsTheme.Dark.Dialog" parent="@style/Theme.AppCompat.Dialog">
         <item name="colorPrimary">@color/green800</item>
-        <item name="colorPrimaryDark">@color/green900</item>
+        <item name="colorPrimaryDark">@color/grey900</item><!--green900-->
         <item name="colorAccent">@color/blue_a100</item>
         <item name="color_background_primary">@color/grey800</item>
         <item name="divider">@color/white12</item>
