@@ -13,54 +13,6 @@ Snikket and the Snikket logo are trademarks of Snikket Community Interest Compan
 Licensed under GPL License Version 3.
 
 
-
-<h1 align="center">Conversations</h1>
-
-<p align="center">Conversations: the very last word in instant messaging</p>
-
-<p align="center">
-    <a href="https://conversations.im/j/conversations@conference.siacs.eu">
-        <img src="https://inverse.chat/badge.svg?room=conversations@conference.siacs.eu"
-             alt="chat on our conference room">
-    </a>
-    <a href="https://travis-ci.org/inputmice/Conversations">
-        <img src="https://travis-ci.org/inputmice/Conversations.svg?branch=master"
-             alt="build status">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations&amp;referrer=utm_source%3Dgithub">
-       <img src="https://conversations.im/images/en-play-badge.png" alt="Google Play">
-    </a>
-</p>
-
-![screenshots](https://raw.githubusercontent.com/inputmice/Conversations/master/screenshots.png)
-
-## Design principles
-
-* Be as beautiful and easy to use as possible without sacrificing security or
-  privacy
-* Rely on existing, well established protocols (XMPP)
-* Do not require a Google Account or specifically Google Cloud Messaging (GCM)
-
-## Features
-
-* End-to-end encryption with [OMEMO](http://conversations.im/omemo/) or [OpenPGP](http://openpgp.org/about/)
-* Send and receive images as well as other kind of files
-* [Encrypted audio and video calls (DTLS-SRTP)](https://help.conversations.im)
-* Share your location
-* Send voice messages
-* Indication when your contact has read your message
-* Intuitive UI that follows Android Design guidelines
-* Pictures / Avatars for your Contacts
-* Synchronizes with desktop client
-* Conferences (with support for bookmarks)
-* Address book integration
-* Multiple accounts / unified inbox
-* Very low impact on battery life
-
-
 ### XMPP Features
 
 Conversations works with every XMPP server out there. However XMPP is an
