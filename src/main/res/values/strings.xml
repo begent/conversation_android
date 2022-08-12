@@ -236,8 +236,8 @@
     <string name="select">Select</string>
     <string name="contact_already_exists">The contact already exists</string>
     <string name="join">Join</string>
-    <string name="channel_full_jid_example">channelname@conference.otherhome.au</string>
-    <string name="channel_bare_jid_example">channelname@conference.otherhome.au</string>
+    <string name="channel_full_jid_example">name@conference.otherhome.au</string>
+    <string name="channel_bare_jid_example">name@conference.otherhome.au</string>
     <string name="save_as_bookmark">Save as bookmark</string>
     <string name="delete_bookmark">Delete bookmark</string>
     <string name="destroy_room">Destroy group chat</string>
