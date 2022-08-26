@@ -983,7 +983,15 @@ public class ConversationFragment extends XmppFragment implements EditMessage.Ke
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
     }
-
+//  비디오 오디오 아이콘 숨김 시작 - 서브 메뉴에 오디오 비디오 메뉴가 있었음
+    @Override
+    public void onPrepareOptionsMenu(Menu menu) {
+        super.onPrepareOptionsMenu(menu);
+//  비디오 오디오 아이콘 숨김 기능 명령어
+        MenuItem menuItem = menu.findItem(R.id.action_call);
+        menuItem.setVisible(false);
+    }
+    //  비디오 오디오 아이콘 숨김 끝
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater menuInflater) {
         menuInflater.inflate(R.menu.fragment_conversation, menu);
